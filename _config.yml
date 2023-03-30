@@ -4,8 +4,8 @@ locale:             'ko-KR'
 name:               'alicehong'
 description:        "alicehong blog's"
 author:             jeoungwonhong
-baseurl:            " "
 url:                "https://jeoungwonhong.github.io"
+baseurl:            " "
 
 # Social Profiles
 twitter_username:   "jeoungwonhong"
