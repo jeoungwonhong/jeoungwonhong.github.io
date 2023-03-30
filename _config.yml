@@ -1,15 +1,15 @@
-title:              AliceH Blog
-email:              alicehong1819@naver.com
+title:              "AliceH Blog"
+email:              "alicehong1819@naver.com"
 locale:             'ko-KR'
 name:               'alicehong'
 description:        "alicehong blog's"
 author:             jeoungwonhong
-baseurl:            ""
+baseurl:            " "
 url:                "https://jeoungwonhong.github.io"
 
 # Social Profiles
-twitter_username:   jeoungwonhong
-github_username:    jeoungwonhong
+twitter_username:   "jeoungwonhong"
+github_username:    "jeoungwonhong"
 facebook_username:  
 instagram_username:  
 linkedin_username:
