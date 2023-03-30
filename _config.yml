@@ -4,12 +4,12 @@ locale:             'ko-KR'
 name:               'alicehong'
 description:        "alicehong blog's"
 author:             jeoungwonhong
-baseurl:           
+baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://jeoungwonhong.github.io"
 
 # Social Profiles
 twitter_username:   "jeoungwonhong"
-github_username:    "jeoungwonhong"
+github_username:    jeoungwonhong
 facebook_username:  
 instagram_username:  
 linkedin_username:
