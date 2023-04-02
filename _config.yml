@@ -4,10 +4,10 @@ name: 'alicehong1819'
 title: 'ALICE HONG'
 description: 'full stack programmer'
 url: 'https://jeoungwonhong.github.io'
-avatar: /avatar.jpeg
+avatar: /me.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: 
 
 # Gems
 plugins:
