@@ -1,4 +1,6 @@
-- title: Blog
-  url: /
-- title: About
+- title: ABOUT
+  url: /about/
+- title: PORTFOLIO
+  url: /about/
+  - title: CONTACT
   url: /about/
