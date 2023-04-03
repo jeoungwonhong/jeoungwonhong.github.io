@@ -39,6 +39,7 @@ footer {
     padding-left: var(--spacer-3);
     padding-right: var(--spacer-3);
     margin-left: 25%;
+    background: #f1f1f1;
   }
 
   .sidebar-left {
@@ -72,6 +73,6 @@ footer {
 
 @media (min-width: $md-width) and (max-width: $lg-width) {
   .content {
-    width: 75%;
+    width: 80%;
   }
 }
