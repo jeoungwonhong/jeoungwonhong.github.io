@@ -25,7 +25,7 @@
 .masthead-title {
   padding: 0;
   margin: 0;
-  font-size: 20px;
+  font-size: 2rem;
   font-weight: 900;
 
   a:hover,
@@ -37,10 +37,9 @@
 .masthead-tagline {
   padding: 0;
   margin: 0;
-  font-size: 16px;
+  font-size: 1.25rem;
   font-weight: 400;
-  color: rgb(218, 170, 47);
-  font-variant: small-caps;
+  opacity: .7;
 }
 
 .navigation-list {
@@ -86,6 +85,6 @@
 
 @media (max-width: $md-width) {
   .avatar-image {
-    width: 100%;
+    width: 15%;
   }
 }

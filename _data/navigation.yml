@@ -1,6 +1,6 @@
 - title: ABOUT
   url: /about/
 - title: PORTFOLIO
-  url: /about/
-  - title: CONTACT
-  url: /about/
+  url: /portfolio/
+- title: CONTACT
+  url: /contact/

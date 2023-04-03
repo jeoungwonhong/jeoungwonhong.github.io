@@ -26,7 +26,6 @@
   padding: var(--spacer);
   background: center / cover;
   height: 100vh;
-  box-shadow: 1px ;
 }
 
 footer {
@@ -46,11 +45,22 @@ footer {
     position: fixed;
     top: 0;
     bottom: 0;
-    width: 20%;
   }
 
   .home-header {
     margin-top: -2em;
+  }
+}
+
+@media (min-width: $lg-width) {
+  .sidebar-right {
+    display: block;
+  }
+}
+
+@media (max-width: $lg-width) {
+  .sidebar-right {
+    display: none;
   }
 }
 
